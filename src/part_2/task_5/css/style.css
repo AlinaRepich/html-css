@@ -1,0 +1,19 @@
+h2 {
+    color: darkolivegreen;
+    text-align: left;
+    padding: 0 0 0 40px;
+}
+
+.block{
+    background: url('../img/moroccan-flower.png');
+    height: 300px ;
+    width: 550px ;
+    margin: 20px 0 0 20px;
+    padding: 40px ;
+    text-align: justify;
+    box-sizing: border-box;
+}
+
+.block-footer{
+    text-align: center;
+}
